@@ -1,18 +1,12 @@
-*****************************************
-* Claude Shyaka
-* CSE 332S: Object Oriented Software Lab
-* Instructor: Prof. Jon Shidal
-***************************************** 
-
 	************************************
-	Lab 4: Multiple Card Games
+	Multiple Card Games
 	************************************
 	
 	****
 	GOAL
 	****
 	
-	This lab is intended to combine and extend your use of C++ language features from the previous labs, 
+	This project is intended to combine and extend your use of C++ language features from the previous labs, 
 	and to give you more experience programming with the C++ STL. 
 	To do this, you will extend your C++ programs from the previous labs to 
 		(1) add a new game (Seven Card Stud) in addition to the Five Card Draw game from lab 3 
